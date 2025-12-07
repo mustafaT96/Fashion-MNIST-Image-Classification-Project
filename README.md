@@ -26,12 +26,12 @@ All detailed results, graphs, and analysis are available inside the notebook.
 
 ## 📦 Files Included
 
-### 📦 fashion-mnist-ffnn
-│
-├── Image_Classification.ipynb # Main notebook with full analysis
-├── Image_Classification.pdf # Exported PDF version
-├── checkpoints/ # Saved model weights
-└── logs/ # TensorBoard logs
+### 📦 fashion-mnist-ffnn  
+│  
+├── Image_Classification.ipynb # Main notebook with full analysis  
+├── Image_Classification.pdf # Exported PDF version  
+├── checkpoints/ # Saved model weights  
+└── logs/ # TensorBoard logs  
 
 ---
 
